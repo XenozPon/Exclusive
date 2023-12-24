@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,500;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    transition: 0.5s;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(58, 58, 58);
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(37, 37, 37);
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+.navbar .items, .logo, .buy{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    padding: 5px;
+    margin: 5px;
+    font-family: poppins;
+}
+.wrap-logo:hover{
+    filter: drop-shadow(2px 2px 10px #fff);
+}
+.wrap-logo a{
+    font-family:Poppins;
+    font-size: 30px;
+    color: #ffffff;
+    cursor: default;
+    margin-left: 20px;
+}
+
+.items li, a{
+    padding: 1px;
+    color: #ffffff;
+    list-style: none;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 3px;
+    font-size: 15px;
+    white-space:nowrap;
+    transition: 0.5s;
+}
+.items a:hover{
+    color: rgb(0, 255, 251);
+
+    transition: 0.5s;
+}
+
+.buy a:hover{
+    background-color: rgb(0, 255, 251);
+    padding: 1vw;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+.main1{
+    width: 100%;
+    height: 100vh;
+    background-image: url('img/Без\ имени-1.png');
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.main1 img{
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#body123{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#main123{
+    width: 90%;
+    min-height:110vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.242);
+    margin:auto;
+    color: #fff;
+}
+hr{
+    margin-top: 30px;
+}
+#main123 h4{
+    font-family: 'Courier New', Courier, monospace;
+    overflow: hidden;
+    font-size: 25px;
+}
+#bebebe1{
+    padding: 30px; background-color: rgba(0, 183, 255, 0.457); border-radius: 20px; border: 2px solid #00ddff;
+    margin-bottom: 100px;
+}
+#bebebe1:hover{
+background-color: rgb(16, 150, 216);
+border: 2px solid #0099ff;
+}
