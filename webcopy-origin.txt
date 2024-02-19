@@ -1,0 +1,116 @@
+Uri: https://excellentclient.ru/
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\index.htm
+Content Type: text/html
+
+Uri: https://excellentclient.ru/boxicons%402.1.4/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\boxicons@2.1.4\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://excellentclient.ru/boxicons%402.1.4/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\boxicons@2.1.4\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://excellentclient.ru/boxicons%402.1.4/fonts/boxicons.svg
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\boxicons@2.1.4\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://excellentclient.ru/boxicons%402.1.4/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\boxicons@2.1.4\fonts\boxicons.ttf
+Content Type: application/octet-stream
+
+Uri: https://excellentclient.ru/boxicons%402.1.4/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\boxicons@2.1.4\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://excellentclient.ru/boxicons%402.1.4/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\boxicons@2.1.4\fonts\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://excellentclient.ru/css/faq-1.css?1703621005
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\css\faq-1.css
+Content Type: text/css
+
+Uri: https://excellentclient.ru/css/main.css
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\css\main-1.css
+Content Type: text/css
+
+Uri: https://excellentclient.ru/css/main.css?1703620964
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\css\main.css
+Content Type: text/css
+
+Uri: https://excellentclient.ru/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,1,0
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\css2
+Content Type: application/octet-stream
+
+Uri: https://excellentclient.ru/faq.php.html
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\faq.php.html
+Content Type: text/html
+
+Uri: https://excellentclient.ru/img/ellogo.png
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\img\ellogo.png
+Content Type: image/png
+
+Uri: https://excellentclient.ru/img/overlay_4.png
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\img\overlay_4.png
+Content Type: image/png
+
+Uri: https://excellentclient.ru/img/videos/Excellent.mp4
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\img\videos\Excellent.mp4
+Content Type: video/mp4
+
+Uri: https://excellentclient.ru/indexRUSS.html
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\indexRUSS.html
+Content Type: text/html
+
+Uri: https://excellentclient.ru/other/bold/GreycliffCF-Bold.ttf
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\bold\GreycliffCF-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://excellentclient.ru/other/bold/GreycliffCF-Bold.woff
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\bold\GreycliffCF-Bold.woff
+Content Type: font/woff
+
+Uri: https://excellentclient.ru/other/bold/GreycliffCF-Bold.woff2
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\bold\GreycliffCF-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://excellentclient.ru/other/demibold/GreycliffCF-DemiBold.ttf
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\demibold\GreycliffCF-DemiBold.ttf
+Content Type: application/octet-stream
+
+Uri: https://excellentclient.ru/other/demibold/GreycliffCF-DemiBold.woff
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\demibold\GreycliffCF-DemiBold.woff
+Content Type: font/woff
+
+Uri: https://excellentclient.ru/other/demibold/GreycliffCF-DemiBold.woff2
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\demibold\GreycliffCF-DemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://excellentclient.ru/other/medium/GreycliffCF-Medium.ttf
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\medium\GreycliffCF-Medium.ttf
+Content Type: application/octet-stream
+
+Uri: https://excellentclient.ru/other/medium/GreycliffCF-Medium.woff
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\medium\GreycliffCF-Medium.woff
+Content Type: font/woff
+
+Uri: https://excellentclient.ru/other/medium/GreycliffCF-Medium.woff2
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\medium\GreycliffCF-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://excellentclient.ru/other/regular/GreycliffCF-Regular.ttf
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\regular\GreycliffCF-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://excellentclient.ru/other/regular/GreycliffCF-Regular.woff
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\regular\GreycliffCF-Regular.woff
+Content Type: font/woff
+
+Uri: https://excellentclient.ru/other/regular/GreycliffCF-Regular.woff2
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\other\regular\GreycliffCF-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://excellentclient.ru/script.js
+File Name: C:\Downloaded Web Sites\https://xenozpon.github.io/Exclusive\script.js
+Content Type: application/javascript
+
