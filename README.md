@@ -1,2 +1,2 @@
 # Exclusive
-https://github.io/Exclusive/
+https://xenozpon.github.io/Exclusive/
