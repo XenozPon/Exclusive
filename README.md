@@ -1,2 +1,2 @@
 # Exclusive
-hrtps://github.io/Exclusive/
+https://github.io/Exclusive/
